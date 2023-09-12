@@ -1,0 +1,3 @@
+Publish image to Github:
+
+gradlew bootBuildImage --imageName ghcr.io/nguyenthanhnha-dev/ccatalog-service --publishImage -PregistryUrl=ghcr.io -PregistryUsername=nguyenthanhnha-dev -PregistryToken=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
